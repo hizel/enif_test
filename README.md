@@ -1,5 +1,6 @@
 ```
-$ ERL_LIBS=./ erl                                                                [57/5525]
+$ rebar compile
+$ ERL_LIBS=./ erl
 Erlang/OTP 19 [erts-8.0] [source] [64-bit] [smp:2:2] [async-threads:10] [hipe] [kernel-poll:false]
 
 Eshell V8.0  (abort with ^G)
